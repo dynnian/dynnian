@@ -9,20 +9,24 @@
 ---
 
 #### 🔧 Technologies and Interests
-- 💻 **Programming Languages:**
+##### 💻 Programming Languages:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 🐧 **Operating Systems:**
+##### 🐧 Operating Systems:
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🪟 **Window Managers:** I love experimenting with different window managers
-  for a personalized computing experience. Feel free to explore my [dotfiles](https://github.com/d4r1us-drk/dotfiles) repo.
-- ⚙️ **Command-Line Utilities and Shell Scripts:** I'm a fan of using and
-  creating command-line tools to streamline my workflow.
-- 🌐 **Networking:** I have a strong interest in network programming and
-  systems.
+##### 🪟 Window Managers
+I love experimenting with different window managers for a personalized
+computing experience. Feel free to explore my
+[dotfiles](https://github.com/d4r1us-drk/dotfiles) repo.
+
+##### ⚙️ Command-Line Utilities and Shell Scripts:**
+I'm a fan of using and creating command-line tools to streamline my workflow.
+
+##### 🌐 Networking:
+I have a strong interest in network programming and systems.
 
 #### 📫 Get in Touch
 
