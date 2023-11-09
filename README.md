@@ -16,16 +16,14 @@
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**🪟 Window Managers**
-I love experimenting with different window managers for a personalized
-computing experience. Feel free to explore my
+**🪟 Window Managers:** I love experimenting with different window managers for
+a personalized computing experience. Feel free to explore my
 [dotfiles](https://github.com/d4r1us-drk/dotfiles) repo.
 
-**⚙️ Command-Line Utilities and Shell Scripts:**
-I'm a fan of using and creating command-line tools to streamline my workflow.
+**⚙️ Command-Line Utilities and Shell Scripts:** I'm a fan of using and creating
+command-line tools to streamline my workflow.
 
-**🌐 Networking:**
-I have a strong interest in network programming and systems.
+**🌐 Networking:** I have a strong interest in network programming and systems.
 
 #### 📫 Get in Touch
 
