@@ -1,4 +1,4 @@
-<h1> Darius Drake </h1>
+# Darius Drake
 <div id="header" align="center">
     <img src="https://cdn.fosstodon.org/accounts/avatars/109/479/950/225/292/925/original/9555230f080f4d47.gif" width="100"/>
     <p>👨‍💻 Darius Drake here, and I'm passionate about programming, especially in C/C++.</p>
