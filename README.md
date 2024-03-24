@@ -32,7 +32,7 @@ command-line tools to streamline my workflow.
 
 ### 📫 Get in Touch
 
-- 💬 You can reach out to me on [Mastodon](https://fosstodon.org/@d4r1us_drk).
+- 💬 You can reach out to me on [Mastodon](https://floss.social/@d4r1us_drk).
 - 📧 Feel free to email me at d4r1us-drk@proton.me.
 
 ### 👀 Check out my Repositories
