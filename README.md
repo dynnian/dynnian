@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <p>👨‍💻 Lian Drake here, and I'm passionate about programming, especially in C/C++.</p>
     <p>🐧 I'm a Linux enthusiast, and I enjoy tinkering with various window managers and command-line utilities to customize my computing environment.</p>
-    <p>This account is meant for contributions, I moved my software to Codeberg, you can find me there: https://codeberg.org/lian_drake/</p>
+    <p>This account is only meant for contributions, I moved my software to Codeberg, you can find me there: https://codeberg.org/lian_drake/</p>
 </div>
 
 ---
