@@ -1,7 +1,7 @@
-# Darius Drake
+# Lian Drake
 <div id="header" align="center">
     <img src="https://cdn.fosstodon.org/accounts/avatars/109/479/950/225/292/925/original/9555230f080f4d47.gif" width="100"/>
-    <p>👨‍💻 Darius Drake here, and I'm passionate about programming, especially in C/C++.</p>
+    <p>👨‍💻 Lian Drake here, and I'm passionate about programming, especially in C/C++.</p>
     <p>🦀 Rust is next on my list, and I'm excited to explore its powerful features and ecosystem.</p>
     <p>🐧 I'm a Linux enthusiast, and I enjoy tinkering with various window managers and command-line utilities to customize my computing environment.</p>
 </div>
