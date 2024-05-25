@@ -1,8 +1,7 @@
-# Lian Drake
+# Clay Gomera
 <div id="header" align="center">
-    <p>👨‍💻 Lian Drake here, and I'm passionate about programming, especially in C/C++.</p>
+    <p>👨‍💻 Clay Gomera here, and I'm passionate about programming, especially in C/C++.</p>
     <p>🐧 I'm a Linux enthusiast, and I enjoy tinkering with various window managers and command-line utilities to customize my computing environment.</p>
-    <p>This account is only meant for contributions, My software is on Codeberg: https://codeberg.org/lian_drake/</p>
 </div>
 
 ---
@@ -19,4 +18,4 @@
 ### 📫 Get in Touch
 
 - 💬 You can reach out to me on [Mastodon](https://floss.social/@d4r1us_drk).
-- 📧 Feel free to email me at d4r1us-drk@proton.me.
+- 📧 Feel free to email me at maverick.xero@proton.me
