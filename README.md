@@ -21,5 +21,5 @@
 
 ### 📫 Get in Touch
 
-- 💬 You can reach out to me on [Mastodon](https://floss.social/@d4r1us_drk).
-- 📧 Feel free to email me at maverick.xero@proton.me
+- You can reach out to me on [Mastodon](https://floss.social/@d4r1us_drk).
+- Or on Matrix at @d4r1us-drk:matrix.org
