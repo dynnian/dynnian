@@ -1,6 +1,6 @@
-# Clay Gomera
+# Lian Drake
 <div id="header" align="center">
-    <p>👨‍💻 Clay Gomera here, and I'm passionate about programming, especially in C/C++.</p>
+    <p>👨‍💻 Lian Drake here, and I'm passionate about programming, especially in C/C++.</p>
     <p>🐧 I'm a Linux enthusiast, and I enjoy tinkering with various window managers and command-line utilities to customize my computing environment.</p>
 </div>
 
