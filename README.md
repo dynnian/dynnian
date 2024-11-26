@@ -1,6 +1,6 @@
-# Lian Drake
+# Drake
 <div id="header" align="center">
-    <p>👨‍💻 Lian Drake here, and I'm passionate about programming, especially in C/C++.</p>
+    <p>👨‍💻 Drake here, and I'm passionate about programming, especially in C/C++.</p>
     <p>🐧 I'm a Linux enthusiast, and I enjoy tinkering with various window managers and command-line utilities to customize my computing environment.</p>
     <p>I only use GitHub for my big open source projects, all my smaller repositories are available <a href=https://forge.lianslair.com/drake>here</a>
 </div>
