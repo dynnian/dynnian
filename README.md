@@ -1,8 +1,7 @@
-# Drake
 <div id="header" align="center">
-    <p>👨‍💻 Drake here, and I'm passionate about programming, especially in C/C++.</p>
-    <p>🐧 I'm a Linux enthusiast, and I enjoy tinkering with various window managers and command-line utilities to customize my computing environment.</p>
-    <p>I only use GitHub for my big open source projects, all my smaller repositories are available <a href=https://forge.lianslair.com/drake>here</a>
+    <p>"Freedom and knowledge are the only true powers; all else is fleeting."</p>
+    <p>I am 𝚕𝚒𝚊𝚗 𝚍𝚛𝚊𝚔𝚎, a relentless coder and I welcome you to my lair.</p>
+    <p>You have here a Linux and FOSS purist at heart, I craft my digital sanctuary through window managers and command-line tools, bending the machine to my will.</p>
 </div>
 
 ---
