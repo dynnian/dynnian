@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h3><i>"By the power of truth, I while living, have conquered the universe"</i></h3>
-    <p>I am _Dynn_, a relentless coder and I welcome you to my lair.</p>
+    <p>I am *Dynn*, a relentless coder and I welcome you to my lair.</p>
     <p>You have here a Linux and FOSS purist at heart, I craft my digital sanctuary through window managers and command-line tools, bending the machine to my will.</p>
 </div>
 
