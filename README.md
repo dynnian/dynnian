@@ -33,7 +33,7 @@
 
 ### 📊 Stats
 
-![Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4r1us-drk&show_icons=true&theme=onedark)
+![Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dynnian&show_icons=true&theme=onedark)
 
 ### 📫 Get in Touch
 
