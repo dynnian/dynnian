@@ -1,4 +1,5 @@
 <div id="header" align="center">
+    <img src="./bitmap.png" width="288px" />
     <h3><i>"By the power of truth, I while living, have conquered the universe"</i></h3>
     <p>I am <i>Dynn</i>, a relentless coder and I welcome you to my lair.</p>
     <p>You have here a Linux and FOSS purist at heart, I craft my digital sanctuary through window managers and command-line tools, bending the machine to my will.</p>
